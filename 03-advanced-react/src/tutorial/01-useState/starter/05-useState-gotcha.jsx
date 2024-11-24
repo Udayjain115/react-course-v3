@@ -1,5 +1,3 @@
-const UseStateGotcha = () => {
-  return <h2>useState "gotcha"</h2>;
-};
+const UseStateGotcha = () => {};
 
 export default UseStateGotcha;
